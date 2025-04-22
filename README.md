@@ -41,6 +41,12 @@ Ikuti kami di media sosial untuk mendapatkan informasi terbaru dan dukungan:
 - [Twitter](#)
 - [Instagram](#)
 - [LinkedIn](#)
+## Teknologi
+
+- HTML5, CSS3
+- Font Awesome untuk ikon
+- Google Fonts (Poppins)
+- JavaScript untuk interaktivitas
 
 ## Lisensi
 
@@ -65,9 +71,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-## Teknologi
-
-- HTML5, CSS3
-- Font Awesome untuk ikon
-- Google Fonts (Poppins)
-- JavaScript untuk interaktivitas
